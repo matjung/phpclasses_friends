@@ -6,6 +6,6 @@ If you came here from phpclasses.org or https://www.micro-work.net/ghac/ghaaddus
 What can you do?
 
 Best case:
-Adding/changing content at the Wiki
-Creating/solving issues
-Pushing committs to this repo
+- Adding/changing content at the Wiki
+- Creating/solving issues
+- Pushing committs to this repo
